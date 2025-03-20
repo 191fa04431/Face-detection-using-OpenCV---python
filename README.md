@@ -22,7 +22,7 @@ This Python script utilizes OpenCV's powerful Haar Cascade Classifier to detect 
 
 🔬 How It Works  
 1. Load pre-trained Haar Cascade classifier  
-2. Read input image  
+2. Read the input image  
 3. Convert image to grayscale  
 4. Detect faces using `detectMultiScale()`  
 5. Draw rectangles around detected faces  
